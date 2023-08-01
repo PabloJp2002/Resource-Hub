@@ -1,0 +1,50 @@
+
+body {
+    background-color:#564D80
+
+}
+h1 {
+    text-align: center;
+    color:#C2F970;
+}
+
+h2 {
+text-align: center;
+color: black;
+}
+
+article {
+    border-bottom: 2px dotted #999;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    padding: 3%;
+}
+
+div {
+    margin: 30px;
+    background-color: #D3FCD5;
+    border: 1px solid black;
+  
+}
+
+.Navbox {
+    background-color: #C2F970;
+    text-align: center;
+    font-weight: bold;
+    height: 25px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+}
+    
+.Catgif {
+    display: block;
+    width: 420px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.Abm {
+    text-align: center;
+}
